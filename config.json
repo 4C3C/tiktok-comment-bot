@@ -1,0 +1,7 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/1213033264042999848/MRfJ4pjFi1WnMVbQrk3YThuVA3auj3OqdbALF55jn_DM1EV2EkLFWIxjVDEwWcy56j_X",
+  "debugging": true,
+  "comment_file": "comment.txt",
+  "comment_button_image": "comment.png",
+  "next_video_button_image": "click.png"
+}
